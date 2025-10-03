@@ -1,0 +1,110 @@
+body{
+    background-color: rgba(105, 96, 108, 0.497);
+}
+#barca{
+    width: auto;
+    height: auto;
+    background-color: rgb(24, 45, 71);
+}
+.Penna{
+    margin-top: 0px;
+    color: white;
+    background-color: rgb(58, 92, 119);
+
+}
+#presa{
+     text-align:center;
+   width: auto;
+    margin-top: 0px;
+}
+#birra{
+      text-align:center;
+    width: auto;
+    margin-top: 0px;
+}
+#casa{
+      text-align:center;
+      width: auto;
+    margin-top: 0px;
+}
+#velo{
+      text-align:center;
+      width: auto;
+    margin-top: 0px;
+}
+#loto{
+      text-align:center;
+       width: auto;
+    margin-top: 0px;
+}
+#sera{
+      text-align:center;
+      width: auto;
+    margin-top: 0px;
+}
+.sedia{
+ width:90%;
+ margin-left: auto;
+ margin-right: auto;
+ 
+}
+#bicchiere{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+ .pinza{ 
+
+    text-align: center;
+    margin: auto;
+    width: auto;
+}
+.Pippo{
+    background-color: white;
+
+
+}
+#Pluto{
+    text-align: left;
+}
+.Minni{
+    text-align: center;
+    border-radius:20px;
+}
+.Pianta{
+    width: auto;
+    height: auto;
+    display: inline-block; 
+}
+#fico{
+    text-align: center;
+}
+.Bolla{
+    width: auto;
+    height: auto;
+    display: inline-block; 
+}
+#Fico{
+    text-align: center;
+}
+.pizza{
+    width: auto;
+    height: auto;
+    background-color: rgb(58, 92, 119);
+}
+#cosa{
+    text-align: center;
+    color: white;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+.armadio{
+    border-top: 0;
+    background-color:  rgb(24, 45, 71) ;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
